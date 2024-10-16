@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌟 I'm Aleks.
 - 📚 I am a Systems Engineering student with a focus on software development.
-- ⚙️ Junior Backend Developer specialized in Java and Spring.
+- ⚙️ Junior Backend Developer specialized in Java and Spring Boot.
 - 💬 Available to collaborate on backend development projects.
 - 🚀 Driven by curiosity and a desire to enhance my knowledge.
 
