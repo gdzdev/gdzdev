@@ -23,22 +23,22 @@ Here are some ideas to get you started:
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-- 🌟 I'm Aleks Galdamez.
-- 📚 Student of Systems Engineering with a focus on software development.
-- ⚙️ Backend Developer Jr skilled in Java and Spring.
-- 💻 Passionate about programming, particularly in developing efficient and scalable applications.
-- 💬 I’m available to collaborate on backend development projects and eager to contribute my skills.
-- 🚀 Driven by curiosity and the desire to enhance my knowledge, I actively seek new learning opportunities and challenges.
+- 🌟 I'm Aleks.
+- 📚 I am a Systems Engineering student with a focus on software development.
+- ⚙️ Junior Backend Developer specialized in Java and Spring.
+- 💬 Available to collaborate on backend development projects.
+- 🚀 Driven by curiosity and a desire to enhance my knowledge.
 
 <br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Skills
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Technical Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,aws,github,html,js,mysql,postman,py,vscode,intellij&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,spring,hibernate,maven,py,fastapi,html,css,postman,postgres,mysql,vscode,idea&perline=8" />
   </a>
 </p>
+
 
 
 
