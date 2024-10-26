@@ -1,6 +1,6 @@
 🔴🟡🟢
 <!--
-**gdzdev/gdzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gdzdev/gdzdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## <div align="center">Hi there 👋</div><br/><br/>
 
