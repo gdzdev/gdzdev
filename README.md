@@ -3,7 +3,7 @@
 **gdzdev/gdzdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## <div align="center">Hi there 👋</div><br/><br/>
+## <div align="center">Hi there 👋</div><br/><br/> 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
