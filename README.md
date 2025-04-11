@@ -20,8 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,java,spring,hibernate,maven,py,fastapi,postman,docker,postgres,mysql,vscode,idea,angular&perline=8" />    @ControllerAdvice
-    public class GlobalExceptionHandler {
+    <img src="https://skillicons.dev/icons?i=git,github,linux,java,spring,hibernate,maven,py,fastapi,postman,docker,postgres,mysql,vscode,idea,angular&perline=8" />
   </a>
 </p>
 
