@@ -35,7 +35,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-// ## 🛠 Lenguajes más usados
-// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdzdev&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
