@@ -8,7 +8,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-- 🌟 I'm Aleks...
+- 🌟 I'm Aleks..
 - 📚 I am a Systems Engineering student with a focus on software development.
 - ⚙️ Backend Developer specialized in Java and Spring Boot.
 - 💬 Available to collaborate on backend development projects.
